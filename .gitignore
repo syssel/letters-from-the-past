@@ -1,0 +1,9 @@
+# Project specific
+external/
+
+# OS
+*.DS_Store
+
+# Python
+*__pycache__
+*.ipynb_checkpoints
